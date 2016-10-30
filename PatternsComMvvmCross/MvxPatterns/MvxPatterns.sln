@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvxPatterns.Core", "MvxPatterns.Core\MvxPatterns.Core.csproj", "{234B1EB1-A115-4B3F-95C4-C200F379D843}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvxPatterns.Test", "MvxPatterns.Test\MvxPatterns.Test.csproj", "{69E92296-C86D-468C-A7FA-6F2E10987097}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{234B1EB1-A115-4B3F-95C4-C200F379D843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{234B1EB1-A115-4B3F-95C4-C200F379D843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{234B1EB1-A115-4B3F-95C4-C200F379D843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{234B1EB1-A115-4B3F-95C4-C200F379D843}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69E92296-C86D-468C-A7FA-6F2E10987097}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69E92296-C86D-468C-A7FA-6F2E10987097}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69E92296-C86D-468C-A7FA-6F2E10987097}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69E92296-C86D-468C-A7FA-6F2E10987097}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
