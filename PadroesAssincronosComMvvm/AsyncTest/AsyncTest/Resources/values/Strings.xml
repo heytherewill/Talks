@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="BlockingCall">Eu vou travar sua UI</string>
+	<string name="NonBlockingCall">Eu NÃO vou travar sua UI</string>
+	<string name="app_name">AsyncTest</string>
+</resources>

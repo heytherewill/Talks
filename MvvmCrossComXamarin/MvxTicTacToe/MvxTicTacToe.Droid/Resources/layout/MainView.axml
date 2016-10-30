@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mvvmcross.droid.support.v7.recyclerview.MvxRecyclerView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:local="http://schemas.android.com/apk/res-auto"
+    local:MvxBind="ItemsSource Marks;ItemClick MarkGridCommand"
+    local:MvxItemTemplate="@layout/mainviewlistitem"
+    android:id="@+id/MainViewRecyclerView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" />
